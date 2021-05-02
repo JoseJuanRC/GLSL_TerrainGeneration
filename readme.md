@@ -43,7 +43,7 @@ Este proyecto tiene como objetivo utilizar el ruido de Perlin para generar terre
     - Desde la roca a la nieve.
 ## Gif resultado
 
-![](turtlesGif.gif)
+![](example.gif)
 
 ## Base
 
