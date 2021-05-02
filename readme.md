@@ -15,6 +15,19 @@ Este proyecto tiene como objetivo utilizar el ruido de Perlin para generar terre
     - El terreno tiene un tamaño de 2.000
     - Generamos un vertice del terreno cada 10 unidades de distancia.
 
+##### Movimiento
+- Aplicamos el movimiento desde el shader. Aplicamos un desplazamiento del ruido que calculamos.
+
+##### Controles
+
+- Click izquierdo:
+    - Zoom in 
+- Click derecho:
+    - Zoom out 
+- Flechas:
+    - Movimiento
+    
+
 ##### Colores
 - Se utilizan 6 colores distintos:
     - Agua profunda
