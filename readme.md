@@ -49,7 +49,7 @@ Este proyecto tiene como objetivo utilizar el ruido de Perlin para generar terre
 
 Para realizar esta implementación se ha tenido en cuenta, entre otras fuentes, la implementación de ruido con gradiente (o Perlin) que existe en la herramienta Unity (más concretamente dentro de la función de Shader Graph).
 
-- [Gradient Noise Voronoi](https://docs.unity3d.com/Packages/com.unity.shadergraph@6.9/manual/Gradient-Noise-Node.html)
+- [Gradient Noise](https://docs.unity3d.com/Packages/com.unity.shadergraph@6.9/manual/Gradient-Noise-Node.html)
 
 ## Herramientas utilizadas
 - [Processing](https://processing.org/)
